@@ -1,0 +1,230 @@
+.App-back {
+  /* Desktop */
+
+  position: relative;
+  width: 1440px;
+  height: 1024px;
+
+  /* Gray */
+
+  background: #F7F7F7;
+}
+
+.App-init {
+  /* Rectangle 2 */
+  position: absolute;
+  width: 1440px;
+  height: 91px;
+  left: 0px;
+  top: 0px;
+
+  /* Light purple */
+
+  background: #CEC6CE;
+}
+
+.App-perimetro-filtro {
+  /* Rectangle 707 */
+
+  position: absolute;
+  width: 100px;
+  height: 40px;
+  left: 1316px;
+  top: 135px;
+
+  /* Dark purple */
+
+  background: #5D405C;
+  border-radius: 10px;
+}
+
+.App-palavra-filtrar {
+  /* Filtrar */
+
+  position: absolute;
+  width: 100px;
+  height: 40px;
+  left: 40px;
+
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+
+  /* Gray */
+
+  color: #F7F7F7;
+
+}
+
+.App-filtro-icon {
+  /* Vector */
+
+  position: absolute;
+  left: -25%;
+  right: 83.5%;
+  top: 2%;
+
+  /* White */
+
+  color: #FFFFFF;
+}
+
+.App-palavra-dashboard {
+  /* Dashboard */
+
+  position: absolute;
+  width: 161px;
+  height: 34px;
+  left: 28px;
+  top: 115px;
+
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 34px;
+
+  /* Dark purple */
+
+  color: #5D405C;
+
+}
+
+.App-palavra-desafio {
+  /* Desafio Técnico Frontend */
+
+  position: absolute;
+  width: 183px;
+  height: 17px;
+  left: 28px;
+  top: 166px;
+
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+
+  /* Gray 3 */
+
+  color: #828282;
+
+}
+
+.App-perimetro-barras {
+  /* Rectangle 3 */
+
+  position: absolute;
+  width: 680px;
+  height: 359px;
+  left: 28px;
+  top: 228px;
+
+  background: #FFFFFF;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+.App-palavra-barras {
+  /* Barras */
+
+
+  position: absolute;
+  width: 55px;
+  height: 20px;
+  left: 30px;
+  top: 10px;
+
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  /* identical to box height */
+
+  /* Dark purple */
+
+  color: #5D405C;
+}
+
+.App-perimetro-grafico-barras {
+  position: absolute;
+  width: 603px;
+  height: 290px;
+  left: 40px;
+  top: 30px;
+}
+
+.App-info-icon-barras {
+  /* Vector */
+
+  position: absolute;
+  left: 13%;
+  right: 83.5%;
+  top: 7.5%;
+
+  /* Dark green */
+
+  color: #19D7AA;
+}
+
+.App-perimetro-scatter {
+  /* Rectangle 717 */
+
+
+  position: absolute;
+  width: 680px;
+  height: 359px;
+  left: 736px;
+  top: 228px;
+
+  background: #FFFFFF;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+.App-palavra-scatter {
+  /* Scatter */
+
+  position: absolute;
+  width: 60px;
+  height: 20px;
+  left: 30px;
+  top: 10px;
+
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  /* identical to box height */
+
+  /* Dark purple */
+
+  color: #5D405C;
+}
+
+.App-info-icon-scatter {
+  /* Vector */
+
+  position: absolute;
+  left: 13%;
+  right: 83.5%;
+  top: 7.5%;
+
+  /* Dark green */
+
+  color: #19D7AA;
+}
+
+.App-perimetro-grafico-scatter {
+  position: absolute;
+  width: 579px;
+  height: 297px;
+  left: 50px;
+  top: 30px;
+}
